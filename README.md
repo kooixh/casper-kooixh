@@ -19,6 +19,7 @@ An extension to the default theme for [Ghost](http://github.com/tryghost/ghost/)
 - Change Font from System UI -> Roboto
 - Max logo size 55px -> 150px
 - Home link in posts says Back to Blog
+- Google Adsense integration
 
 
 # First time using a Ghost theme?
